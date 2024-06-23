@@ -1,4 +1,14 @@
 # techwiki
+
+## 算法
+[Algorithm Visualizer](https://algorithm-visualizer.org)
+
+[深入理解计算机系统](https://hansimov.gitbook.io/csapp)
+
+[LeetCodeAnimation](https://gitee.com/codeprometheus/LeetCodeAnimation)
+
+[LeetCodeAnimation github](https://github.com/MisterBooo/LeetCodeAnimation)
+
 ## 内存管理
 
 [一篇文章彻底讲懂malloc的实现（ptmalloc）
@@ -107,6 +117,8 @@
 [菜鸟在线工具](https://www.jyshare.com)
 
 [代码对比/归并](https://tool.oschina.net/diff)
+
+[strace深入分析](https://www.cnblogs.com/aozhejin/p/17264512.html)
 
 ## 安卓
 [androidxref](http://androidxref.com)
