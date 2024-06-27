@@ -9,6 +9,8 @@
 
 [LeetCodeAnimation github](https://github.com/MisterBooo/LeetCodeAnimation)
 
+[吴师兄学算法](https://blog.algomooc.com/)
+
 ## 内存管理
 
 [一篇文章彻底讲懂malloc的实现（ptmalloc）
