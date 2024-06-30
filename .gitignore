@@ -1,0 +1,12 @@
+/build
+/project
+/local_export
+/deps
+*.pyc
+*.swp
+DEPS.conf
+modules/
+ABTOR/.config
+.DS_Store
+.idea/
+.vscode/
